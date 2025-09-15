@@ -1,2 +1,4 @@
 #!/usr/bin/env bash
+# Wrtie a script to see ports
+
 netstat -lp
